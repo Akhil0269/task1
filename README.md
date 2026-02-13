@@ -35,8 +35,7 @@ Through this task, I learned:
 3. How data preprocessing fits into the machine learning workflow
 This project improved my understanding of how important clean data is for building accurate ML models.
 
-
-==================Task 2 – Data Cleaning and Preprocessing==================
+===============Task 2: Exploratory Data Analysis (EDA)==================
 
 This task focuses on cleaning and preprocessing the Titanic dataset.  
 The goal is to prepare the data for analysis by handling missing values and improving data quality.
@@ -62,6 +61,7 @@ Steps Performed :
 
 Outcome :
 After preprocessing, the dataset became clean and ready for analysis and machine learning tasks.
+
 
 
 
