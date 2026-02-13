@@ -1,6 +1,6 @@
 TITANIC DATA PREPROCESSING PROJECT:
 
-===================Task 1: Data Cleaning & Preprocessing==================
+==============Task 1: Data Cleaning & Preprocessing============
 
 About This Project :
 In this project, I worked on cleaning and preparing the Titanic dataset so that it can be used for machine learning. Before building any ML model, the data needs to be cleaned and organized properly. Real-world datasets usually contain missing values and unnecessary information, so preprocessing is a very important step.
@@ -61,6 +61,7 @@ Steps Performed :
 
 Outcome :
 After preprocessing, the dataset became clean and ready for analysis and machine learning tasks.
+
 
 
 
